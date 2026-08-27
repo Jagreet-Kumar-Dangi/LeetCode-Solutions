@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [1470-shuffle-the-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
