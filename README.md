@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3467-transform-array-by-parity](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
@@ -49,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3794-reverse-string-prefix](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
