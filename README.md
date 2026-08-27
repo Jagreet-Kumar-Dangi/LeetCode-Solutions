@@ -29,9 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
