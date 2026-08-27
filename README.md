@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
