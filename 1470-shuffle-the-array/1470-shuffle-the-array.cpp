@@ -5,11 +5,9 @@ public:
         int x=0,j=n;
         for(int i=0;i<2*n;i++){
             if(i%2==0){
-                ans.push_back(nums[x]);
-                x++;
+                ans.push_back(nums[x++]);
             }else{
-                ans.push_back(nums[j]);
-                j++;
+                ans.push_back(nums[j++]);
             }
         }
         return ans;
