@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3794-reverse-string-prefix](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+## Two Pointers
+|  |
+| ------- |
+| [3794-reverse-string-prefix](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 <!---LeetCode Topics End-->
