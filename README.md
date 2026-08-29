@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3467-transform-array-by-parity](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
