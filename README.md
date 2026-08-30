@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
