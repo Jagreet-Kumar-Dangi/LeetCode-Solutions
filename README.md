@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1720-decode-xored-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1720-decode-xored-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
