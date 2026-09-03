@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
