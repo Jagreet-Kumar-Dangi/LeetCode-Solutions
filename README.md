@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Matrix
@@ -291,4 +294,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
