@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
 | ------- |
