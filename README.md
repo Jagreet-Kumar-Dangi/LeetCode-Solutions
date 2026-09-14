@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0836-rectangle-overlap](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
