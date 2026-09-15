@@ -1,0 +1,29 @@
+class Solution {
+public:
+    int maxPalindromes(string s, int k) {
+        int n = s.size();
+        vector<vector<bool>> isPal(n, vector<bool>(n, false));
+        for (int i = 0; i < n; i++) isPal[i][i] = true;
+        for (int i = 0; i + 1 < n; i++) isPal[i][i+1] = (s[i] == s[i+1]);
+        for (int len = 3; len <= n; len++) {
+            for (int i = 0; i + len - 1 < n; i++) {
+                int j = i + len - 1;
+                isPal[i][j] = (s[i] == s[j]) && isPal[i+1][j-1];
+            }
+        }
+
+        vector<int> dp(n + 1, 0);
+        for (int e = 0; e < n; e++) {
+            dp[e+1] = dp[e];
+            for (int start = e - k + 1; start >= 0; start--) {
+                int len = e - start + 1;
+                if (len < k) break;
+                if (isPal[start][e]) {
+                    dp[e+1] = max(dp[e+1], dp[start] + 1);
+                    break;
+                }
+            }
+        }
+        return dp[n];
+    }
+};
