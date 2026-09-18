@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
