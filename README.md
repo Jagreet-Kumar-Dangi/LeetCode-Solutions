@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0836-rectangle-overlap](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Combinatorics
 |  |
 | ------- |
