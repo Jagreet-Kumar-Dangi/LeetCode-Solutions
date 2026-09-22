@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3516-find-closest-person](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3516-find-closest-person) |
 | [3524-find-x-value-of-array-i](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3871-count-commas-in-range-ii) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0493-reverse-pairs) |
+| [3525-find-x-value-of-array-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
