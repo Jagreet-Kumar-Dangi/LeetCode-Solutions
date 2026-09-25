@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0771-jewels-and-stones](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0940-distinct-subsequences-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1096-brace-expansion-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -310,10 +313,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
@@ -341,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
