@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1678-goal-parser-interpretation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Tree
 |  |
@@ -359,4 +361,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
