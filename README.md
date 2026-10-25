@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting Sort
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
@@ -405,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
