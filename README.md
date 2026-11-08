@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1313-decompress-run-length-encoded-list](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1512-number-of-good-pairs](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1672-richest-customer-wealth](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1901-find-a-peak-element-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -326,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Stack
@@ -486,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0938-range-sum-of-bst](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
