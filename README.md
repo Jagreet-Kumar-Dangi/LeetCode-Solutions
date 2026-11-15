@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2235-add-two-integers](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2235-add-two-integers) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
