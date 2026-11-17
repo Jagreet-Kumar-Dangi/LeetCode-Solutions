@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3794-reverse-string-prefix) |
 ## Sorting
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
