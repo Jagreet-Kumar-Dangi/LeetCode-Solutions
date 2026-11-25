@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -491,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0684-redundant-connection](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1096-brace-expansion-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0938-range-sum-of-bst](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0938-range-sum-of-bst) |
 | [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
@@ -622,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
