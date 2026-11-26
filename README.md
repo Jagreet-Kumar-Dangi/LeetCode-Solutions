@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0200-number-of-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1254-number-of-closed-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0684-redundant-connection](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1096-brace-expansion-ii](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
