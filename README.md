@@ -505,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0301-remove-invalid-parentheses](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0684-redundant-connection](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0994-rotting-oranges](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0994-rotting-oranges) |
@@ -558,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0257-binary-tree-paths) |
@@ -641,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -697,4 +700,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/3934-smallest-unique-subarray) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Jagreet-Kumar-Dangi/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
